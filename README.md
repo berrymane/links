@@ -1,3 +1,4 @@
-# links
-testing it out
-Teach about privacy
+# links to browser
+https://www.torproject.org/
+# Privacy phone
+https://grapheneos.org/
